@@ -1,0 +1,86 @@
+@font-face {
+    font-family: "koo-light";
+    src: url(../fonts/manrope-light.otf);
+}
+
+@font-face {
+    font-family: "koo-thin";
+    src: url(../fonts/manrope-thin.otf);
+}
+
+@font-face {
+    font-family: "koo-bold";
+    src: url(../fonts/manrope-extrabold.otf);
+}
+
+@font-face {
+    font-family: "koo-semibold";
+    src: url(../fonts/manrope-semibold.otf);
+}
+
+@font-face {
+    font-family: "koo-normal";
+    src: url(../fonts/manrope-regular.otf);
+}
+
+@font-face {
+    font-family: "koo-curve";
+    src: url(../fonts/FuzzyBubbles-Regular.ttf);
+}
+
+/* @font-face {
+    font-family: "koo-light";
+    src: url(../fonts/raleway-light.ttf);
+}
+
+@font-face {
+    font-family: "koo-bold";
+    src: url(../fonts/raleway-extrabold.ttf);
+}
+
+@font-face {
+    font-family: "koo-semibold";
+    src: url(../fonts/raleway-semibold.ttf);
+}
+
+@font-face {
+    font-family: "koo-normal";
+    src: url(../fonts/raleway-regular.ttf);
+} */
+
+*{
+    font-family: "koo-light" !important;
+    font-size: 14px !important;
+    color: #000 !important;
+}
+
+.heading_{
+    font-family: "koo-bold" !important;
+    font-size: 4em !important;
+}
+
+.heading_hos{
+    font-family: "koo-bold" !important;
+}
+
+.subheading{
+    font-family: "koo-semibold" !important;
+    font-size: 2.5em !important;
+}
+
+.heading_xx{
+    font-family: "koo-thin" !important;
+}
+
+.txt-regular{
+    font-family: "koo-normal" !important;
+}
+
+.txt-curve{
+    font-family: "koo-curve" !important;
+    font-size: inherit !important;
+}
+
+.txt-bold{
+    font-family: "koo-semibold" !important;
+}
