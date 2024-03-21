@@ -9,9 +9,9 @@ We touch lives for complete positive transformation. WE DON’T STOP! With the h
   <ol>
     <li><a href="#">About Greenworld</a></li>
     <li><a href="#">Built With</a></li>
-    <li><a href="#contributing">Installation</a></li>
-    <li><a href="#license">Usage</a></li>
-    <li><a href="#contact">Author</a></li>
+    <li><a href="#">Installation</a></li>
+    <li><a href="#">Usage</a></li>
+    <li><a href="#">Author</a></li>
   </ol>
 </details>
 
@@ -20,10 +20,10 @@ We touch lives for complete positive transformation. WE DON’T STOP! With the h
 
 This website was developed with:
 
-* [![Php][PHP]]
-* [![Html5][HTML5]]
-* [![Css][CSS]]
-* [![JQuery][JQuery.com]]
+* PHP
+* HTML5
+* CSS
+* JQuery
 
 
 
@@ -59,11 +59,11 @@ Below is the installation requirements for the website.
 
 Follow these steps:
 
-    * Start the server (Apache & MYSQL)
+    1. Start the server (Apache & MYSQL)
 
-    * Open your web browser
+    2. Open your web browser
 
-    * Type:
+    3. Type in your web browser address bar:
 
 ```sh
 localhost/greenworld_website
