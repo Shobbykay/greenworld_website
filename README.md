@@ -64,15 +64,15 @@ Follow these steps:
     * Open your web browser
 
     * Type:
-    ```sh
-    localhost/greenworld_website
-    ```
+
+```sh
+localhost/greenworld_website
+```
 
 
 
 ## Author
 
-    ```sh
        | | |     / / /      / / /| | |     / / /| | |     \ \ \         / / /
        | | |    / / /      / / / | | |    / / / | | |      \ \ \       / / /
        | | |   / / /      / / /  | | |    / / / | | |       \ \ \     / / /
@@ -85,7 +85,7 @@ Follow these steps:
        | | |   \ \ \             | | |          | | |          | | | | |
        | | |    \ \ \            | | |          | | |          | | | | |
        | | |     \ \ \           | | |          | | |          | | | | |
-    ```
+
 
 
 
